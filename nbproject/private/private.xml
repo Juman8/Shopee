@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/PRJAVA_SPRING/SHOPEE/web/WEB-INF/pages/contact_us.jsp</file>
+            <file>file:/D:/PRJAVA_SPRING/SHOPEE/web/WEB-INF/pages/product.jsp</file>
+            <file>file:/D:/PRJAVA_SPRING/SHOPEE/web/WEB-INF/pages/slider.jsp</file>
+            <file>file:/D:/PRJAVA_SPRING/SHOPEE/web/WEB-INF/pages/index.jsp</file>
+            <file>file:/D:/PRJAVA_SPRING/SHOPEE/src/java/tool/SendMail.java</file>
+            <file>file:/D:/PRJAVA_SPRING/SHOPEE/web/WEB-INF/pages/cart.jsp</file>
+            <file>file:/D:/PRJAVA_SPRING/SHOPEE/src/java/dao/CategoryDAO.java</file>
+            <file>file:/D:/PRJAVA_SPRING/SHOPEE/src/java/tool/random.java</file>
+            <file>file:/D:/PRJAVA_SPRING/SHOPEE/src/java/service/CategoryService.java</file>
+            <file>file:/D:/PRJAVA_SPRING/SHOPEE/web/WEB-INF/pages/footer.jsp</file>
+            <file>file:/D:/PRJAVA_SPRING/SHOPEE/src/java/hibernate.cfg.xml</file>
+            <file>file:/D:/PRJAVA_SPRING/SHOPEE/web/WEB-INF/dispatcher-servlet.xml</file>
+            <file>file:/D:/PRJAVA_SPRING/SHOPEE/web/WEB-INF/web.xml</file>
+            <file>file:/D:/PRJAVA_SPRING/SHOPEE/web/WEB-INF/pages/link.jsp</file>
+            <file>file:/D:/PRJAVA_SPRING/SHOPEE/web/WEB-INF/pages/detail.jsp</file>
+            <file>file:/D:/PRJAVA_SPRING/SHOPEE/web/redirect.jsp</file>
+            <file>file:/D:/PRJAVA_SPRING/SHOPEE/src/java/tool/MD5.java</file>
+            <file>file:/D:/PRJAVA_SPRING/SHOPEE/web/WEB-INF/pages/menu.jsp</file>
+            <file>file:/D:/PRJAVA_SPRING/SHOPEE/web/WEB-INF/pages/account.jsp</file>
+            <file>file:/D:/PRJAVA_SPRING/SHOPEE/web/WEB-INF/pages/about.jsp</file>
+            <file>file:/D:/PRJAVA_SPRING/SHOPEE/web/WEB-INF/applicationContext.xml</file>
+            <file>file:/D:/PRJAVA_SPRING/SHOPEE/src/java/dao/Ban.java</file>
+            <file>file:/D:/PRJAVA_SPRING/SHOPEE/web/WEB-INF/pages/header.jsp</file>
+            <file>file:/D:/PRJAVA_SPRING/SHOPEE/src/java/controller/HomepageController.java</file>
+            <file>file:/D:/PRJAVA_SPRING/SHOPEE/web/META-INF/context.xml</file>
+        </group>
+    </open-files>
+</project-private>
